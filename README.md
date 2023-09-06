@@ -8,3 +8,4 @@
 Computer Laboratory 2566 - Lab 01
 
 My name is Athip Nokyoo
+Edited by Github Text Editer
