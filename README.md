@@ -1,8 +1,10 @@
 #include <stdio.h>
-main()
+int main()
 {
-
-printf("hello,อธิป\n);
+char yourname [100];
+printf("What is your name?\t");
+scanf("%s",yourname);
+printf("hello,%s\n",yourname)
 
 }
 
