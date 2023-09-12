@@ -2,7 +2,7 @@
 main()
 {
 
-printf("hello,world\n);
+printf("hello,อธิป\n);
 
 }
 
